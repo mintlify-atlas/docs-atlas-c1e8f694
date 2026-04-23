@@ -1,23 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "name": "ByteWise",
+  "projectType": "saas",
+  "projectName": "ByteWise",
+  "projectDescription": "ByteWise is a cybersecurity, IT, and AI consulting firm that delivers strategic diagnostic services and technology transformation solutions to educational institutions in Mexico.",
   "theme": "luma",
-  "colors": {
-    "primary": "#1a2d6b",
-    "light": "#29b6d5",
-    "dark": "#0f1f54"
-  },
-  "navbar": {
-    "primary": {
-      "type": "github",
-      "href": "https://github.com/bytewisemx/bytewise"
-    }
-  },
-  "footer": {
-    "socials": {
-      "github": "https://github.com/bytewisemx/bytewise"
-    }
-  },
+  "primaryColor": "#1a2d6b",
+  "lightColor": "#29b6d5",
+  "darkColor": "#0f1f54",
   "navigation": {
     "tabs": [
       {
@@ -62,5 +50,21 @@
         ]
       }
     ]
-  }
+  },
+  "keyFeatures": [
+    "Strategic IT & cybersecurity diagnosis for educational institutions",
+    "Risk identification: operational, technological, and digital",
+    "AI advisory and responsible AI adoption in schools",
+    "Phased implementation with continuous accompaniment",
+    "Tailored plans for reducing administrative workload",
+    "Data protection and ransomware prevention strategies"
+  ],
+  "publicApiSurface": [
+    "contact@bytewise.mx",
+    "www.bytewise.mx",
+    "Diagnostic engagement",
+    "Strategic plan delivery",
+    "Phased implementation service",
+    "Continuous support & accompaniment"
+  ]
 }
